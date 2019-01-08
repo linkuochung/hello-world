@@ -4,7 +4,7 @@ i am learning GitHub. its now in session of branch edit blah blah
 this is to learn commit
 
 
-_md cheatsheet_
+_md_ _cheatsheet_
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
