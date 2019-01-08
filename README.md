@@ -7,6 +7,8 @@ this is to learn commit
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
+[Python Tutorial W3school](https://www.w3schools.com/python/python_numbers.asp)
+
 **freq used cmds**
 
 1. vcgencmd measure_temp
