@@ -5,8 +5,7 @@ this is to learn commit
 
 
 **md cheatsheet**
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 **freq used cmds**
@@ -19,9 +18,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 **Raspberry Pi3 B+**
 
 
-**beginners guild to setup a pi3 up and run**
-
-https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/
+[**beginners guild to setup a pi3 up and run**]
+(https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 
 
 **to install python 3.7 on pi3**
