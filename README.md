@@ -4,7 +4,6 @@ i am learning GitHub. its now in session of branch edit blah blah
 this is to learn commit
 
 
-**md cheatsheet**
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
@@ -18,7 +17,7 @@ this is to learn commit
 **Raspberry Pi3 B+**
 
 
-[**beginners guild to setup a pi3 up and run**]
+[beginners guild to setup a pi3 up and run]
 (https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 
 
