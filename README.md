@@ -11,11 +11,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 **freq used cmds**
 
-vcgencmd measure_temp
-
-vcgencmd get_config arm_freq
-
-sudo apt-get update
+1. vcgencmd measure_temp
+2. vcgencmd get_config arm_freq
+3. sudo apt-get update
 
 
 **Raspberry Pi3 B+**
