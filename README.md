@@ -14,6 +14,7 @@ this is to learn commit
 1. vcgencmd measure_temp
 2. vcgencmd get_config arm_freq
 3. sudo apt-get update
+4. uname -a   # linux version
 
 
 **Raspberry Pi3 B+**
