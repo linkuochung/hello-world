@@ -20,9 +20,7 @@ this is to learn commit
 [beginners guild to setup a pi3 up and run](https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 
 
-**to install python 3.7 on pi3**
-
-https://www.ramoonus.nl/2018/06/30/installing-python-3-7-on-raspberry-pi/
+[to install python 3.7 on pi3](https://www.ramoonus.nl/2018/06/30/installing-python-3-7-on-raspberry-pi/)
 
 
 **NOOBS**
