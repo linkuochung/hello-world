@@ -9,6 +9,15 @@ this is to learn commit
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
+**freq used cmds**
+
+vcgencmd measure_temp
+
+vcgencmd get_config arm_freq
+
+sudo apt-get update
+
+
 **Raspberry Pi3 B+**
 
 
