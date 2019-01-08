@@ -4,36 +4,43 @@ i am learning GitHub. its now in session of branch edit blah blah
 this is to learn commit
 
 
-*md* *cheatsheet*
-
+**md cheatsheet**
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
-#Raspberry Pi3 B+; 
+**Raspberry Pi3 B+**
 
-beginners guild to setup a pi3 up and run
+
+**beginners guild to setup a pi3 up and run**
 https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/
 
-to install python 3.7 on pi3
+
+**to install python 3.7 on pi3**
 https://www.ramoonus.nl/2018/06/30/installing-python-3-7-on-raspberry-pi/
 
-NOOBS
+
+**NOOBS**
 https://www.raspberrypi.org/documentation/installation/noobs.md
 https://github.com/raspberrypi/noobs/blob/master/README.md
 
-#Raspbian
+
+**Raspbian**
 https://www.raspberrypi.org/downloads/raspbian/
 
-#to install pi3 with NOOBS
+
+**to install pi3 with NOOBS**
 https://projects.raspberrypi.org/en/projects/noobs-install
 
-#to build kernel, native or cross build
+
+**to build kernel, native or cross build**
 https://www.raspberrypi.org/documentation/linux/kernel/building.md
 
-#linux source code git hub
+
+**linux source code git hub**
 https://github.com/raspberrypi/linux
 
-#src about ALSA
+
+**src about ALSA**
 https://github.com/raspberrypi/linux/tree/rpi-4.14.y/sound
 
 
