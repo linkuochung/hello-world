@@ -6,6 +6,8 @@ this is to learn commit
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[python module](https://docs.python.org/3/py-modindex.html)
+
 [python iterator](https://www.w3schools.com/python/python_iterators.asp)
 
 **python lambda**
