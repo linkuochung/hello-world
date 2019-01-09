@@ -31,6 +31,7 @@ this is to learn commit
 2. vcgencmd get_config arm_freq
 3. sudo apt-get update
 4. uname -a   # linux version
+5. vcgencmd measure_clock arm
 
 
 **Raspberry Pi3 B+**
