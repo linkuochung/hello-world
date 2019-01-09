@@ -6,7 +6,8 @@ this is to learn commit
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[why python lambdas useful] (https://stackoverflow.com/questions/890128/why-are-python-lambdas-useful)
+**python lambda**
+[why python lambdas useful](https://stackoverflow.com/questions/890128/why-are-python-lambdas-useful)
 
 [Python Tutorial W3school](https://www.w3schools.com/python/python_numbers.asp)
 
