@@ -6,6 +6,8 @@ this is to learn commit
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[install tensorflow with pip](https://www.tensorflow.org/install/pip)
+
 [python try..except..else](https://www.w3schools.com/python/python_try_except.asp)
 
 [python RegEx](https://www.w3schools.com/python/python_regex.asp)
