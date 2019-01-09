@@ -6,6 +6,8 @@ this is to learn commit
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[yet another Numpy tutorial](https://www.tutorialspoint.com/numpy/index.htm)
+
 [python numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 [install tensorflow with pip](https://www.tensorflow.org/install/pip)
