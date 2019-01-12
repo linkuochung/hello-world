@@ -25,6 +25,10 @@ this is to learn commit
 
 [Python Tutorial W3school](https://www.w3schools.com/python/python_numbers.asp)
 
+
+[Pi3 screenshot howto](https://pimylifeup.com/raspberry-pi-screenshots/)
+
+
 **freq used cmds**
 
 1. vcgencmd measure_temp
@@ -41,6 +45,7 @@ this is to learn commit
 
 
 [to install python 3.7 on pi3](https://www.ramoonus.nl/2018/06/30/installing-python-3-7-on-raspberry-pi/)
+
 
 
 **NOOBS**
