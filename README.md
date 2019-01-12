@@ -28,6 +28,7 @@ this is to learn commit
 
 [Pi3 screenshot howto](https://pimylifeup.com/raspberry-pi-screenshots/)
 
+[Visual Studio Code installation on Pi3](https://pimylifeup.com/raspberry-pi-visual-studio-code/)
 
 **freq used cmds**
 
